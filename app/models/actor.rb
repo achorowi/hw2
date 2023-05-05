@@ -19,5 +19,4 @@ class Actor < ApplicationRecord
     actor5["name"] = "Gary Oldman"
     puts actor5.inspect
 
-
 end
